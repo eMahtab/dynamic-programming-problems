@@ -10,3 +10,9 @@ Subset Sum
 
 Rod Cutting
 
+Longest Common Subsequence (LCS)
+
+Longest Increasing Subsequence (LIS)
+
+
+
