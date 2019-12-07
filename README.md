@@ -6,21 +6,21 @@
 
 3. Coin Change - Total ways to make change
 
-3. Coin Change - Minimum number of coins to make change
+4. Coin Change - Minimum number of coins to make change
 
-4. Subset Sum
+5. Subset Sum
 
-5. Rod Cutting
+6. Rod Cutting
 
-6. Edit Distance - Levenshtein Distance
+7. Edit Distance - Levenshtein Distance
 
-7. Longest Common Subsequence (LCS)
+8. Longest Common Subsequence (LCS)
 
-8. Longest Increasing Subsequence (LIS)
+9. Longest Increasing Subsequence (LIS)
 
-9. Max Sum Increasing Subsequence (MSIS)
+10. Max Sum Increasing Subsequence (MSIS)
 
-10. Minimum Number of Jumps
+11. Minimum Number of Jumps
 
 
 
