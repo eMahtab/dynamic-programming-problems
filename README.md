@@ -18,5 +18,9 @@
 
 8. Longest Increasing Subsequence (LIS)
 
+9. Max Sum Increasing Subsequence (MSIS)
+
+10. Minimum Number of Jumps
+
 
 
